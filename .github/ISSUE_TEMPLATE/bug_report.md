@@ -20,10 +20,12 @@ A clear and concise description of what you expected to happen.
 If applicable, add sample data to help explain your problem.
 
 **Specifications (please complete the following information):**
- - pgRouting: [e.g. 3.0-dev]
- - PostGIS [e.g. 2.6]
- - PostgreSQL [e.g. 10.1]
- - OS: [e.g. Linux]
+Use the commands:
+```
+SELECT version();
+SELECT postgis_full_version();
+SELECT pgr_version();
+```
 
 **Additional context**
 Add any other context about the problem here.
