@@ -1,4 +1,4 @@
-# Contributing to Consento
+# Contributing to pgRouting
 We want to make contributing to this project as approachable and transparent as
 possible.
 
@@ -14,7 +14,7 @@ to track issues and feature requests, as well as accept pull requests.
 ## Pull Requests
 We actively welcome your pull requests.
 
-1. Fork the repo and create your branch from `next`.
+1. Fork the repo and create your branch from `develop`.
 2. If you've added code that should be tested, add tests.
 3. If you've changed APIs, update the documentation.
 4. Ensure the test suite passes.
@@ -22,7 +22,7 @@ We actively welcome your pull requests.
 6. “sign off” your commits to indicate that you agree to the terms of the DCO.
 
 ## Developer Certificate of Origin (DCO) 
-Before we can include your contribution in the Consento project, you need to 
+Before we can include your contribution in the pgRouting project, you need to 
 give us your permission. To indicate that you agree to the terms of the DCO, 
 you “sign off” your contribution by adding a line with your name and e-mail 
 address to every Git commit message:
@@ -45,8 +45,8 @@ your code, and make it look nice for them.
 * We use cpplint for linting C/C++ code.
 
 ## License
-By contributing to Consento, you agree that your contributions will be licensed
-under the license inticated in the repositories `LICENSE` file.
+By contributing to pgRouting, you agree that your contributions will be licensed
+under the license indicated in the repositories `LICENSE` file.
 
 ## References
 This document was adapted from the open-source contribution guidelines for 
