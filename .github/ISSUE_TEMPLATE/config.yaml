@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question
+    url: https://gitter.im/pgRouting/pgrouting
+    about: Ask us anything on our Gitter channel!
+  - name: Support
+    url: http://pgrouting.org/support.html
+    about: Looking for community or commercial support?
