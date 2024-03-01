@@ -8,7 +8,7 @@ If you believe you have found a security vulnerability in any pgRouting-managed 
 
 **Please do not report security vulnerabilities through public GitHub issues.** 
 
-Instead, please report them via email to [project@pgrouting.org](mailto:project@pgrouting.org). You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
+Instead, please report them as (security advisory)(security/advisories/new) (if enabled) or via email to [project@pgrouting.org](mailto:project@pgrouting.org). You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
